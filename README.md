@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gulafshan Sarwar
 - 👀 I’m interested in interesting things
-- 🌱 I’m currently learning backend web development
+- 🌱 I’m currently working as backend web development
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me @gulafshansarwar@gmail.com
 
